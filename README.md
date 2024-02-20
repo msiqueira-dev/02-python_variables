@@ -4,4 +4,4 @@
 
 [EN]: This is an example of a Python program that teachs variables
 
-Link: 
+YouTube Link: https://www.youtube.com/watch?v=s_tM0bZ230M
